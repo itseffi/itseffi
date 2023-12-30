@@ -1,7 +1,9 @@
-### Hi there 👋
+I like deep neural nets.
 
+
+![image](https://github.com/itseffi/itseffi/assets/15998472/b882d193-eb54-42df-83c9-7e261ded7990)
 <!--
-**itseffi/itseffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itseffi/itseffi** is my ✨ _special_ ✨ repository because the `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
