@@ -1,8 +1,5 @@
 I like deep neural nets.
 
-Currently working on 
-![image](https://github.com/itseffi/itseffi/assets/15998472/9385f8ba-fb8f-41ae-bbe6-45d0c53e41cf)
-
 
 ![image](https://github.com/itseffi/itseffi/assets/15998472/b882d193-eb54-42df-83c9-7e261ded7990)
 <!--
