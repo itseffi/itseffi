@@ -1,7 +1,6 @@
 I like deep neural nets and I love to build and let build.
 
 
-![image](https://github.com/itseffi/itseffi/assets/15998472/19cdd955-fea2-4a57-909d-ad01c43cab72)
 
 <!--
 **itseffi/itseffi** is my ✨ _special_ ✨ repository because the `README.md` (this file) appears on my GitHub profile.
