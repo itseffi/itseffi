@@ -12,6 +12,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: itseffi@users.noreply.github.com # replace me
-        MAX_DAYS: 730
+        MAX_DAYS: 5730
         MIN_COMMITS_PER_DAY: 5
         MAX_COMMITS_PER_DAY: 10
