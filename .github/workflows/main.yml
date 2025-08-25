@@ -12,6 +12,10 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: 15998472+itseffi@users.noreply.github.com 
-        MAX_DAYS: 5730
+        GIT_BRANCH: main
+        ORIGIN_TIMESTAMP: "1767225600"
+        MAX_DAYS: 1095
         MIN_COMMITS_PER_DAY: 5
         MAX_COMMITS_PER_DAY: 10
+        INCLUDE_WEEKDAYS: "true"
+        INCLUDE_WEEKENDS: "true"
