@@ -14,7 +14,7 @@ jobs:
         GIT_EMAIL: 15998472+itseffi@users.noreply.github.com 
         GIT_BRANCH: main
         ORIGIN_TIMESTAMP: "1767225600"
-        MAX_DAYS: 1095
+        MAX_DAYS: 365
         MIN_COMMITS_PER_DAY: 5
         MAX_COMMITS_PER_DAY: 10
         INCLUDE_WEEKDAYS: "true"
