@@ -1,6 +1,6 @@
 ### Hi 👋, I’m Effi!
 
-I like deep neural nets and I love to build and let build.
+I love to build and let build. Can't spell leadership without ship.
 
 
 
