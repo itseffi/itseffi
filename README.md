@@ -1,6 +1,6 @@
 ### Hi 👋, I’m Effi!
 
-I love to build and let build. Can't spell leadership without ship.
+I love to build and let build. 
 
 
 
